@@ -1,4 +1,4 @@
-import { getFruit } from "./3-async-await";
+import { getFruit } from "../4. AsyncAwait/AsyncAwait.js";
 
 const makeSmoothieFaster = async () => {
   const a = getFruit("pineapple");
